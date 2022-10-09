@@ -21,4 +21,4 @@ jobs:
     - name: update repo
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: starred --username dharmeshkakadia --repository github-bookmarks-stars --sort --token ${GITHUB_TOKEN} --message 'Auto updated via github action'
+      run: starred --username waldirborbajr --repository github-bookmarks-stars --sort --token ${GITHUB_TOKEN} --message 'Auto updated via github action'
