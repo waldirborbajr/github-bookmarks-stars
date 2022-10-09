@@ -2,7 +2,7 @@ name: update stars
 on:
   workflow_dispatch:
   schedule:
-  - cron: "1 00 * * *" 
+  - cron: "0 */12 * * *" 
 
 jobs:
   update-stars:
