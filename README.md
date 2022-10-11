@@ -7,7 +7,6 @@
 
 - [C#](#c#)
 - [C++](#c++)
-- [Elixir](#elixir)
 - [Emacs Lisp](#emacs-lisp)
 - [Go](#go)
 - [HTML](#html)
@@ -33,10 +32,6 @@
 ## C++ 
 
 - [FarmBot/farmbot-arduino-firmware](https://github.com/FarmBot/farmbot-arduino-firmware) - Arduino firmware that executes g-code like commands over a serial line to move the FarmBot and operate the tool mount
-
-## Elixir 
-
-- [FarmBot/farmbot_os](https://github.com/FarmBot/farmbot_os) - The operating system and all related software that runs on FarmBot's Raspberry Pi.
 
 ## Emacs Lisp 
 
@@ -241,13 +236,7 @@
 - [codeedu/maratona4-esquenta](https://github.com/codeedu/maratona4-esquenta) - 
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [rmanguinho/clean-ts-api](https://github.com/rmanguinho/clean-ts-api) - API em NodeJs usando Typescript, TDD, Clean Architecture, Design Patterns e SOLID principles
-- [backmeupplz/randymbot](https://github.com/backmeupplz/randymbot) - Randy Marsh raffle Telegram bot
-- [rocketseat-content/youtube-api-node-solid](https://github.com/rocketseat-content/youtube-api-node-solid) - Código produzido no vídeo "Princípios SOLID em uma API REST com Node.js e TypeScript"
-- [Rocketseat/umbriel](https://github.com/Rocketseat/umbriel) - 📪  Mail sending microservice with Node.js, TypeScript and MongoDB
-- [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [rocketseat-content/masterclass-typescript](https://github.com/rocketseat-content/masterclass-typescript) - Código produzido durante o vídeo "TypeScript, o início, de forma prática - Masterclass #07" no Youtube 🔥
-- [Rowadz/hapi_yt](https://github.com/Rowadz/hapi_yt) - 
-- [FarmBot/Farmbot-Web-App](https://github.com/FarmBot/Farmbot-Web-App) - Setup, customize, and control FarmBot from any device
 
 ## Vim Script 
 
