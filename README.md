@@ -39,6 +39,7 @@
 
 ## Go 
 
+- [vektra/mockery](https://github.com/vektra/mockery) - A mock code autogenerator for Golang
 - [jedib0t/go-pretty](https://github.com/jedib0t/go-pretty) - Table-writer and more in golang!
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [okemechris/assistant-jerome](https://github.com/okemechris/assistant-jerome) - Voice assistant for linux
@@ -157,6 +158,7 @@
 
 ## Python 
 
+- [crweiner/hacktoberfest-swag-list](https://github.com/crweiner/hacktoberfest-swag-list) - Multiple companies go above and beyond for Hacktoberfest, and this repo tries to list them all.
 - [J-Rios/TLG_JoinCaptchaBot](https://github.com/J-Rios/TLG_JoinCaptchaBot) - Telegram Bot to verify if users joining a group are human. The Bot sends an image captcha for each new user and kicks any of them who can't solve the captcha in a specified time.
 - [rbalves-mm/bot-conversor-criptomoedas](https://github.com/rbalves-mm/bot-conversor-criptomoedas) - 
 - [jo4oP4ulo/corinthiansbot](https://github.com/jo4oP4ulo/corinthiansbot) - 
