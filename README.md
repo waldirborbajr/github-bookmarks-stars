@@ -18,6 +18,7 @@
 - [Others](#others)
 - [PHP](#php)
 - [Python](#python)
+- [Ruby](#ruby)
 - [Rust](#rust)
 - [Shell](#shell)
 - [Starlark](#starlark)
@@ -214,6 +215,10 @@
 - [cosme12/SimpleCoin](https://github.com/cosme12/SimpleCoin) - Just a really simple, insecure and incomplete implementation of a blockchain for a cryptocurrency made in Python as educational material. In other words, a simple Bitcoin clone.
 - [alvaropaco/py-weather-micro-service](https://github.com/alvaropaco/py-weather-micro-service) - 
 - [getdock/plasma-cash-contracts](https://github.com/getdock/plasma-cash-contracts) - 
+
+## Ruby 
+
+- [adrianmihalko/ch340g-ch34g-ch34x-mac-os-x-driver](https://github.com/adrianmihalko/ch340g-ch34g-ch34x-mac-os-x-driver) - CH340G CH34G CH34X Mac OS X driver
 
 ## Rust 
 
