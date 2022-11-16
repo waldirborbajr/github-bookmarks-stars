@@ -50,6 +50,7 @@
 - [rwxrob/cmdbox-pomo](https://github.com/rwxrob/cmdbox-pomo) - 
 - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol
 - [fonini/go-pix](https://github.com/fonini/go-pix) - go-pix is a Go library for generating Pix transactions using Copy and Paste or QR codes. 💳 💰
+- [gobitfly/eth2-beaconchain-explorer](https://github.com/gobitfly/eth2-beaconchain-explorer) - Open source golang based explorer for the eth2 beacon chain
 - [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) - A fast trading bot platform for cryptocurrency in Go (Binance)
 - [alexrios/lbucket](https://github.com/alexrios/lbucket) - An idiomatic Go implementation of Leaky bucket.
 - [sausheong/gonn](https://github.com/sausheong/gonn) - Building a simple neural network in Go
@@ -85,7 +86,6 @@
 
 - [jeffotoni/gobootcamp](https://github.com/jeffotoni/gobootcamp) - Um repo com manual prático da linguagem Go, todos estão convidados a ajudar passo a passo da linguagem.
 - [jacksonng77/ballot](https://github.com/jacksonng77/ballot) - 
-- [gobitfly/eth2-beaconchain-explorer](https://github.com/gobitfly/eth2-beaconchain-explorer) - Open source golang based explorer for the eth2 beacon chain
 - [flask-extensions/flaskextensions.com](https://github.com/flask-extensions/flaskextensions.com) - Website flaskextensions.com curated collection of Flask Extensions and its resources
 - [RyanZotti/Self-Driving-Car](https://github.com/RyanZotti/Self-Driving-Car) - 
 - [adilmoujahid/blockchain-python-tutorial](https://github.com/adilmoujahid/blockchain-python-tutorial) - Source Code for my blog post: A Practical Introduction to Blockchain with Python
