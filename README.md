@@ -112,7 +112,7 @@
 - [blockballot/blockballot](https://github.com/blockballot/blockballot) - A decentralized voting platform built on the Ethereum Testnet
 - [bradtraversy/storybooks](https://github.com/bradtraversy/storybooks) - Node.js app with Google OAuth
 - [Sakai-san/graphqlApiNodeDemo](https://github.com/Sakai-san/graphqlApiNodeDemo) - Demo on how to quickly set up a graphql api using Express.js and Seqelize
-- [programadorabordo/ead-api](https://github.com/programadorabordo/ead-api) - API da plataforma de ensino a distância desenvolvida junto ao canal do YouTube Programador a Bordo
+- [ayrtonteshima/ead-api](https://github.com/ayrtonteshima/ead-api) - API da plataforma de ensino a distância desenvolvida junto ao canal do YouTube Programador a Bordo
 - [BrasilAPI/BrasilAPI](https://github.com/BrasilAPI/BrasilAPI) - Vamos transformar o Brasil em uma API?
 - [antoniosarosi/Contacts-App-Nodejs](https://github.com/antoniosarosi/Contacts-App-Nodejs) - 
 - [filipedeschamps/video-maker](https://github.com/filipedeschamps/video-maker) - Projeto open source para fazer vídeos automatizados
