@@ -7,6 +7,7 @@
 
 - [C#](#c#)
 - [C++](#c++)
+- [EJS](#ejs)
 - [Emacs Lisp](#emacs-lisp)
 - [Go](#go)
 - [HTML](#html)
@@ -34,6 +35,10 @@
 
 - [FarmBot/farmbot-arduino-firmware](https://github.com/FarmBot/farmbot-arduino-firmware) - Arduino firmware that executes g-code like commands over a serial line to move the FarmBot and operate the tool mount
 
+## EJS 
+
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
+
 ## Emacs Lisp 
 
 - [tiago-aguiar/dotfiles](https://github.com/tiago-aguiar/dotfiles) - environment :: scripts, dotfiles, bin and anything else
@@ -50,7 +55,6 @@
 - [rwxrob/cmdbox-pomo](https://github.com/rwxrob/cmdbox-pomo) - 
 - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol
 - [fonini/go-pix](https://github.com/fonini/go-pix) - go-pix is a Go library for generating Pix transactions using Copy and Paste or QR codes. 💳 💰
-- [gobitfly/eth2-beaconchain-explorer](https://github.com/gobitfly/eth2-beaconchain-explorer) - Open source golang based explorer for the eth2 beacon chain
 - [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) - A fast trading bot platform for cryptocurrency in Go (Binance)
 - [alexrios/lbucket](https://github.com/alexrios/lbucket) - An idiomatic Go implementation of Leaky bucket.
 - [sausheong/gonn](https://github.com/sausheong/gonn) - Building a simple neural network in Go
@@ -86,13 +90,13 @@
 
 - [jeffotoni/gobootcamp](https://github.com/jeffotoni/gobootcamp) - Um repo com manual prático da linguagem Go, todos estão convidados a ajudar passo a passo da linguagem.
 - [jacksonng77/ballot](https://github.com/jacksonng77/ballot) - 
+- [gobitfly/eth2-beaconchain-explorer](https://github.com/gobitfly/eth2-beaconchain-explorer) - Open source golang based explorer for the eth2 beacon chain
 - [flask-extensions/flaskextensions.com](https://github.com/flask-extensions/flaskextensions.com) - Website flaskextensions.com curated collection of Flask Extensions and its resources
 - [RyanZotti/Self-Driving-Car](https://github.com/RyanZotti/Self-Driving-Car) - 
 - [adilmoujahid/blockchain-python-tutorial](https://github.com/adilmoujahid/blockchain-python-tutorial) - Source Code for my blog post: A Practical Introduction to Blockchain with Python
 
 ## JavaScript 
 
-- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [converge/personal-website](https://github.com/converge/personal-website) - Personal Website using ReactJS
 - [CezarGarrido/airbnb-go](https://github.com/CezarGarrido/airbnb-go) - Simple Airbnb clone written in golang
