@@ -40,6 +40,7 @@
 
 ## Go 
 
+- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [vektra/mockery](https://github.com/vektra/mockery) - A mock code autogenerator for Golang
 - [jedib0t/go-pretty](https://github.com/jedib0t/go-pretty) - Table-writer and more in golang!
