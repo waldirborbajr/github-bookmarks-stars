@@ -181,7 +181,7 @@
 - [carlos-rian/python-async-vs-sync](https://github.com/carlos-rian/python-async-vs-sync) - 
 - [lucaslattari/Twitter-Tools](https://github.com/lucaslattari/Twitter-Tools) - Conjunto de utilitários para facilitar a interação do Python com a API do Twitter
 - [metacall/beautifulsoup-express-example](https://github.com/metacall/beautifulsoup-express-example) - This example shows how to create a proxy server with Express (NodeJS) and BeautifulSoup (Python) with MetaCall.
-- [mongodb/mongo-python-driver](https://github.com/mongodb/mongo-python-driver) - PyMongo - the Python driver for MongoDB
+- [mongodb/mongo-python-driver](https://github.com/mongodb/mongo-python-driver) - PyMongo - the Official MongoDB Python driver
 - [Netflix/dispatch](https://github.com/Netflix/dispatch) - All of the ad-hoc things you're doing to manage incidents today, done for you, and much more!
 - [TheComeUpCode/WardrobeApp](https://github.com/TheComeUpCode/WardrobeApp) - An app that automates your closet and generates an outfit.
 - [testdrivenio/flask-on-docker](https://github.com/testdrivenio/flask-on-docker) - Flask + Docker
