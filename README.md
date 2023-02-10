@@ -136,7 +136,7 @@
 - [craftzdog/dotfiles-public](https://github.com/craftzdog/dotfiles-public) - My personal dotfiles
 - [junnplus/lsp-setup.nvim](https://github.com/junnplus/lsp-setup.nvim) - A simple wrapper for nvim-lspconfig and mason-lspconfig to easily setup LSP servers.
 - [nvim-neo-tree/neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim) - Neovim plugin to manage the file system and other tree like structures.
-- [ray-x/go.nvim](https://github.com/ray-x/go.nvim) - Modern Go plugin for Neovim, based on gopls, treesitter AST, Dap and a variety of go tools.
+- [ray-x/go.nvim](https://github.com/ray-x/go.nvim) - Modern Go dev plugin, based on gopls, treesitter AST, Dap and a variety of go tools.
 
 ## Makefile 
 
