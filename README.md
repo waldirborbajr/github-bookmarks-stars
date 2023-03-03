@@ -54,7 +54,7 @@
 - [go-telegram-bot-api/telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api) - Golang bindings for the Telegram Bot API
 - [rwxrob/cmdbox-pomo](https://github.com/rwxrob/cmdbox-pomo) - 
 - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol
-- [fonini/go-pix](https://github.com/fonini/go-pix) - go-pix is a Go library for generating Pix transactions using Copy and Paste or QR codes. 💳 💰
+- [fonini/go-pix](https://github.com/fonini/go-pix) - go-pix is a Go library for generating Pix Copy and Paste or QR codes. 💳 💰
 - [gobitfly/eth2-beaconchain-explorer](https://github.com/gobitfly/eth2-beaconchain-explorer) - Open source golang based explorer for the eth2 beacon chain
 - [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) - A fast trading bot platform for cryptocurrency in Go (Binance)
 - [alexrios/lbucket](https://github.com/alexrios/lbucket) - An idiomatic Go implementation of Leaky bucket.
@@ -140,6 +140,7 @@
 
 ## Makefile 
 
+- [uber-go/guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
 - [chemidy/smallest-secured-golang-docker-image](https://github.com/chemidy/smallest-secured-golang-docker-image) - Create the smallest and secured golang docker image based on scratch
 
 ## Nix 
@@ -148,7 +149,6 @@
 
 ## Others 
 
-- [uber-go/guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
 - [jeffotoni/goworkshopdevops](https://github.com/jeffotoni/goworkshopdevops) - Workshop material for 8 hours using golang
 - [DesenvolvimentoDeBots/DesenvolvimentoDeBots](https://github.com/DesenvolvimentoDeBots/DesenvolvimentoDeBots) - Esse é um repositório oficial do grupo Desenvolvimento De Bots no Telegram
 - [pyladiespb-org/python-world](https://github.com/pyladiespb-org/python-world) - Possibilidades de aplicação e estudo com a nossa linguagem do coração: Python (ÓBVIO)!!
