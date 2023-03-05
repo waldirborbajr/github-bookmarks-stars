@@ -99,7 +99,6 @@
 
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
-- [converge/personal-website](https://github.com/converge/personal-website) - Personal Website using ReactJS
 - [CezarGarrido/airbnb-go](https://github.com/CezarGarrido/airbnb-go) - Simple Airbnb clone written in golang
 - [mariohmol/aiml-portugues](https://github.com/mariohmol/aiml-portugues) - Coleções de AIML em português da ALICE e outros BOTS
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
