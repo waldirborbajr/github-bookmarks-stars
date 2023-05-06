@@ -201,7 +201,7 @@
 - [ThiagoDiasV/pharmaquiz](https://github.com/ThiagoDiasV/pharmaquiz) - 
 - [ThiagoDiasV/parking-lot-api](https://github.com/ThiagoDiasV/parking-lot-api) - Rest API for parking lots
 - [ThiagoDiasV/computer-store-api](https://github.com/ThiagoDiasV/computer-store-api) - Rest API for computer stores
-- [dunossauro/live-de-python](https://github.com/dunossauro/live-de-python) - Repositório das lives semanais
+- [dunossauro/live-de-python](https://github.com/dunossauro/live-de-python) - Repositório das lives de python semanais
 - [TheComeUpCode/SpotifyGeneratePlaylist](https://github.com/TheComeUpCode/SpotifyGeneratePlaylist) - 
 - [filhoweuler/yt-comments-feeling](https://github.com/filhoweuler/yt-comments-feeling) - Análise de sentimento de comentários do YouTube.
 - [nassir-malik/IOT-Pi3-Alexa-Automation](https://github.com/nassir-malik/IOT-Pi3-Alexa-Automation) - Use Raspberry Pi 3 as home automation device with Alexa
