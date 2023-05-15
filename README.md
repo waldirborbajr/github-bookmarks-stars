@@ -5,7 +5,6 @@
 
 ## Contents
 
-- [Astro](#astro)
 - [C#](#c#)
 - [C++](#c++)
 - [Emacs Lisp](#emacs-lisp)
@@ -24,10 +23,6 @@
 - [Starlark](#starlark)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
-
-## Astro 
-
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## C# # 
 
@@ -249,6 +244,7 @@
 - [golang/vscode-go](https://github.com/golang/vscode-go) - Go extension for Visual Studio Code
 - [codeedu/imersao-fullstack-fullcycle](https://github.com/codeedu/imersao-fullstack-fullcycle) - 
 - [codeedu/maratona4-esquenta](https://github.com/codeedu/maratona4-esquenta) - 
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [rmanguinho/clean-ts-api](https://github.com/rmanguinho/clean-ts-api) - API em NodeJs usando Typescript, TDD, Clean Architecture, Design Patterns e SOLID principles
 - [rocketseat-content/masterclass-typescript](https://github.com/rocketseat-content/masterclass-typescript) - Código produzido durante o vídeo "TypeScript, o início, de forma prática - Masterclass #07" no Youtube 🔥
 
