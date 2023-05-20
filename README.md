@@ -24,6 +24,7 @@
 - [Starlark](#starlark)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
+- [Vue](#vue)
 
 ## Astro 
 
@@ -99,6 +100,7 @@
 
 ## JavaScript 
 
+- [chrisleekr/nodejs-vuejs-mysql-boilerplate](https://github.com/chrisleekr/nodejs-vuejs-mysql-boilerplate) - Node.js (REST API) + Vue.js/Nuxt.js  (Frontend/Backend) + MySQL Boilerplate
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [CezarGarrido/airbnb-go](https://github.com/CezarGarrido/airbnb-go) - Simple Airbnb clone written in golang
@@ -256,6 +258,10 @@
 
 - [alexandreliberato/vim-modular](https://github.com/alexandreliberato/vim-modular) - Vim modular dot files
 - [fatih/vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim
+
+## Vue 
+
+- [bezkoder/vue-3-typescript-example](https://github.com/bezkoder/vue-3-typescript-example) - Vue 3 Typescript example with Axios: CRUD application with Vue Router
 
 
 ## License
