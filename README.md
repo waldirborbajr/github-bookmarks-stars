@@ -232,6 +232,8 @@
 
 ## Shell 
 
+- [dreamsofcode-io/dotfiles](https://github.com/dreamsofcode-io/dotfiles) - 
+- [omerxx/dotfiles](https://github.com/omerxx/dotfiles) - 
 - [wincent/vim-university](https://github.com/wincent/vim-university) - A curriculum for leveling up your Vim
 - [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
 - [badtuxx/DescomplicandoKubernetes](https://github.com/badtuxx/DescomplicandoKubernetes) - 
