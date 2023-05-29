@@ -245,6 +245,7 @@
 
 ## TypeScript 
 
+- [expressots/expressots](https://github.com/expressots/expressots) - A Typescript + Node.js lightweight framework for quick building scalable, easy to read and maintain, server-side applications 🚀
 - [golang/vscode-go](https://github.com/golang/vscode-go) - Go extension for Visual Studio Code
 - [codeedu/imersao-fullstack-fullcycle](https://github.com/codeedu/imersao-fullstack-fullcycle) - 
 - [codeedu/maratona4-esquenta](https://github.com/codeedu/maratona4-esquenta) - 
