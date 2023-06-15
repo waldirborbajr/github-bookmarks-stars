@@ -90,6 +90,7 @@
 - [jeffotoni/gobootcamp](https://github.com/jeffotoni/gobootcamp) - Um repo com manual prático da linguagem Go, todos estão convidados a ajudar passo a passo da linguagem.
 - [jacksonng77/ballot](https://github.com/jacksonng77/ballot) - 
 - [flask-extensions/flaskextensions.com](https://github.com/flask-extensions/flaskextensions.com) - Website flaskextensions.com curated collection of Flask Extensions and its resources
+- [dunossauro/live-de-python](https://github.com/dunossauro/live-de-python) - Repositório das lives de python semanais
 - [RyanZotti/Self-Driving-Car](https://github.com/RyanZotti/Self-Driving-Car) - 
 - [adilmoujahid/blockchain-python-tutorial](https://github.com/adilmoujahid/blockchain-python-tutorial) - Source Code for my blog post: A Practical Introduction to Blockchain with Python
 
@@ -198,7 +199,6 @@
 - [ThiagoDiasV/pharmaquiz](https://github.com/ThiagoDiasV/pharmaquiz) - 
 - [ThiagoDiasV/parking-lot-api](https://github.com/ThiagoDiasV/parking-lot-api) - Rest API for parking lots
 - [ThiagoDiasV/computer-store-api](https://github.com/ThiagoDiasV/computer-store-api) - Rest API for computer stores
-- [dunossauro/live-de-python](https://github.com/dunossauro/live-de-python) - Repositório das lives de python semanais
 - [TheComeUpCode/SpotifyGeneratePlaylist](https://github.com/TheComeUpCode/SpotifyGeneratePlaylist) - 
 - [filhoweuler/yt-comments-feeling](https://github.com/filhoweuler/yt-comments-feeling) - Análise de sentimento de comentários do YouTube.
 - [nassir-malik/IOT-Pi3-Alexa-Automation](https://github.com/nassir-malik/IOT-Pi3-Alexa-Automation) - Use Raspberry Pi 3 as home automation device with Alexa
