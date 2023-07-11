@@ -178,7 +178,6 @@
 - [lucaslattari/knapsack-problem](https://github.com/lucaslattari/knapsack-problem) - Repositório do projeto apresentado no vídeo "Explicando o Problema da Mochila de forma DIDÁTICA" (e os seguintes) do canal Universo Discreto
 - [TeoCalvo/olist_churn](https://github.com/TeoCalvo/olist_churn) - 
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [ChristianLempa/disrapid](https://github.com/ChristianLempa/disrapid) - This discord bot written in python will help content creators to connect with their audience via discord. It will empower the discord admin to add a notification, moderation, and social media function
 - [carlos-rian/fastapi-structure](https://github.com/carlos-rian/fastapi-structure) - Estrutura de projeto para FastApi.
 - [carlos-rian/python-async-vs-sync](https://github.com/carlos-rian/python-async-vs-sync) - 
 - [lucaslattari/Twitter-Tools](https://github.com/lucaslattari/Twitter-Tools) - Conjunto de utilitários para facilitar a interação do Python com a API do Twitter
