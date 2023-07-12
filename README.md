@@ -40,6 +40,7 @@
 
 ## Go 
 
+- [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [carlmjohnson/requests](https://github.com/carlmjohnson/requests) - HTTP requests for Gophers
 - [thangchung/go-coffeeshop](https://github.com/thangchung/go-coffeeshop) - ☕ A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment
 - [andrewesteves/superchat](https://github.com/andrewesteves/superchat) - 
