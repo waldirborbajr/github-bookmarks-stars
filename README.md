@@ -7,6 +7,7 @@
 
 - [C#](#c#)
 - [C++](#c++)
+- [Dart](#dart)
 - [Emacs Lisp](#emacs-lisp)
 - [Go](#go)
 - [HTML](#html)
@@ -33,6 +34,10 @@
 ## C++ 
 
 - [FarmBot/farmbot-arduino-firmware](https://github.com/FarmBot/farmbot-arduino-firmware) - Arduino firmware that executes g-code like commands over a serial line to move the FarmBot and operate the tool mount
+
+## Dart 
+
+- [olmps/memo](https://github.com/olmps/memo) - Memo is an open-source, programming-oriented spaced repetition software (SRS) written in Flutter.
 
 ## Emacs Lisp 
 
