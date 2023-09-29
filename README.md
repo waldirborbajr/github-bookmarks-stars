@@ -192,7 +192,6 @@
 - [metacall/beautifulsoup-express-example](https://github.com/metacall/beautifulsoup-express-example) - This example shows how to create a proxy server with Express (NodeJS) and BeautifulSoup (Python) with MetaCall.
 - [mongodb/mongo-python-driver](https://github.com/mongodb/mongo-python-driver) - PyMongo - the Official MongoDB Python driver
 - [Netflix/dispatch](https://github.com/Netflix/dispatch) - All of the ad-hoc things you're doing to manage incidents today, done for you, and much more!
-- [TheComeUpCode/WardrobeApp](https://github.com/TheComeUpCode/WardrobeApp) - An app that automates your closet and generates an outfit.
 - [testdrivenio/flask-on-docker](https://github.com/testdrivenio/flask-on-docker) - Flask + Docker
 - [hogeline/sample_fastapi](https://github.com/hogeline/sample_fastapi) - DockerCompose+FastAPI+MySQL
 - [happilyeverafter95/pneumonia-detection](https://github.com/happilyeverafter95/pneumonia-detection) - Web app for detecting pneumonia from x-ray images
@@ -207,7 +206,6 @@
 - [ThiagoDiasV/parking-lot-api](https://github.com/ThiagoDiasV/parking-lot-api) - Rest API for parking lots
 - [ThiagoDiasV/computer-store-api](https://github.com/ThiagoDiasV/computer-store-api) - Rest API for computer stores
 - [dunossauro/live-de-python](https://github.com/dunossauro/live-de-python) - Repositório das lives de python semanais
-- [TheComeUpCode/SpotifyGeneratePlaylist](https://github.com/TheComeUpCode/SpotifyGeneratePlaylist) - 
 - [filhoweuler/yt-comments-feeling](https://github.com/filhoweuler/yt-comments-feeling) - Análise de sentimento de comentários do YouTube.
 - [nassir-malik/IOT-Pi3-Alexa-Automation](https://github.com/nassir-malik/IOT-Pi3-Alexa-Automation) - Use Raspberry Pi 3 as home automation device with Alexa
 - [Flaykz/HuaweiToGPX](https://github.com/Flaykz/HuaweiToGPX) - Export HiTrack Huawei file from Watch GT to GPX file
