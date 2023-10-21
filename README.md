@@ -240,6 +240,7 @@
 
 ## Shell 
 
+- [notthebee/ansible-easy-vpn](https://github.com/notthebee/ansible-easy-vpn) - An Ansible playbook that sets up a Wireguard server with ad blocking, DNS-over-HTTPS, and a WebUI with 2FA
 - [dreamsofcode-io/dotfiles](https://github.com/dreamsofcode-io/dotfiles) - 
 - [omerxx/dotfiles](https://github.com/omerxx/dotfiles) - 
 - [wincent/vim-university](https://github.com/wincent/vim-university) - A curriculum for leveling up your Vim
