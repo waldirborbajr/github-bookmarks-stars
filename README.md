@@ -45,6 +45,7 @@
 
 ## Go 
 
+- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally
 - [mallmanndev/plataforma-ead](https://github.com/mallmanndev/plataforma-ead) - 
 - [lintingzhen/commitizen-go](https://github.com/lintingzhen/commitizen-go) - The commitizen command line utility, without nodejs.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
