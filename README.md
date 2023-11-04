@@ -135,6 +135,7 @@
 
 ## Jupyter Notebook 
 
+- [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) - 
 - [miohana/data-preprocessing](https://github.com/miohana/data-preprocessing) - :crystal_ball: Example of data preprocessing using Python.
 - [kiteco/python-youtube-code](https://github.com/kiteco/python-youtube-code) - 
 - [sandeco/CanalSandeco](https://github.com/sandeco/CanalSandeco) - Todas os arquivos dos vídeos do Canal Sandeco
