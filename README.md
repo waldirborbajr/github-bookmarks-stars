@@ -59,7 +59,6 @@
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [okemechris/assistant-jerome](https://github.com/okemechris/assistant-jerome) - Voice assistant for linux
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
-- [go-telegram-bot-api/telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api) - Golang bindings for the Telegram Bot API
 - [rwxrob/cmdbox-pomo](https://github.com/rwxrob/cmdbox-pomo) - 
 - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol
 - [fonini/go-pix](https://github.com/fonini/go-pix) - go-pix is a Go library for generating Pix Copy and Paste or QR codes. 💳 💰
