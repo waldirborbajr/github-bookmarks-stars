@@ -7,7 +7,6 @@
 
 - [C#](#c#)
 - [C++](#c++)
-- [Dart](#dart)
 - [Emacs Lisp](#emacs-lisp)
 - [Go](#go)
 - [HTML](#html)
@@ -18,13 +17,11 @@
 - [Nix](#nix)
 - [Others](#others)
 - [Python](#python)
-- [Ruby](#ruby)
 - [Rust](#rust)
 - [Shell](#shell)
 - [Starlark](#starlark)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
-- [Vue](#vue)
 
 ## C# # 
 
@@ -34,10 +31,6 @@
 ## C++ 
 
 - [FarmBot/farmbot-arduino-firmware](https://github.com/FarmBot/farmbot-arduino-firmware) - Arduino firmware that executes g-code like commands over a serial line to move the FarmBot and operate the tool mount
-
-## Dart 
-
-- [olmps/memo](https://github.com/olmps/memo) - Memo is an open-source, programming-oriented spaced repetition software (SRS) written in Flutter.
 
 ## Emacs Lisp 
 
@@ -143,7 +136,6 @@
 
 ## Lua 
 
-- [echasnovski/mini.comment](https://github.com/echasnovski/mini.comment) - Neovim Lua plugin for fast and familiar per-line commenting. Part of 'mini.nvim' library.
 - [craftzdog/dotfiles-public](https://github.com/craftzdog/dotfiles-public) - My personal dotfiles
 - [junnplus/lsp-setup.nvim](https://github.com/junnplus/lsp-setup.nvim) - A simple wrapper for nvim-lspconfig and mason-lspconfig to easily setup LSP servers.
 - [nvim-neo-tree/neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim) - Neovim plugin to manage the file system and other tree like structures.
@@ -229,10 +221,6 @@
 - [alvaropaco/py-weather-micro-service](https://github.com/alvaropaco/py-weather-micro-service) - 
 - [getdock/plasma-cash-contracts](https://github.com/getdock/plasma-cash-contracts) - 
 
-## Ruby 
-
-- [adrianmihalko/ch340g-ch34g-ch34x-mac-os-x-driver](https://github.com/adrianmihalko/ch340g-ch34g-ch34x-mac-os-x-driver) - CH340G CH34G CH34X Mac OS X driver
-
 ## Rust 
 
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
@@ -267,10 +255,6 @@
 
 - [alexandreliberato/vim-modular](https://github.com/alexandreliberato/vim-modular) - Vim modular dot files
 - [fatih/vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim
-
-## Vue 
-
-- [bezkoder/vue-3-typescript-example](https://github.com/bezkoder/vue-3-typescript-example) - Vue 3 Typescript example with Axios: CRUD application with Vue Router
 
 
 ## License
