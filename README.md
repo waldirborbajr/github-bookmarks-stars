@@ -141,7 +141,7 @@
 - [craftzdog/dotfiles-public](https://github.com/craftzdog/dotfiles-public) - My personal dotfiles
 - [junnplus/lsp-setup.nvim](https://github.com/junnplus/lsp-setup.nvim) - A simple wrapper for nvim-lspconfig and mason-lspconfig to easily setup LSP servers.
 - [nvim-neo-tree/neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim) - Neovim plugin to manage the file system and other tree like structures.
-- [ray-x/go.nvim](https://github.com/ray-x/go.nvim) - A feature-rich Go development plugin, leveraging gopls, treesitter AST, Dap, and various Go tools to enhance the development experience.
+- [ray-x/go.nvim](https://github.com/ray-x/go.nvim) - A feature-rich Go development plugin, leveraging gopls, treesitter AST, Dap, and various Go tools to enhance the dev experience.
 
 ## Makefile 
 
@@ -246,6 +246,7 @@
 
 ## TypeScript 
 
+- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
 - [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - 🚀 Retool open-source alternative, with low-code UI components and support for multiple data resources.
 - [golang/vscode-go](https://github.com/golang/vscode-go) - Go extension for Visual Studio Code
 - [codeedu/imersao-fullstack-fullcycle](https://github.com/codeedu/imersao-fullstack-fullcycle) - 
