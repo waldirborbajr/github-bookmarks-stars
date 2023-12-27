@@ -198,7 +198,6 @@
 - [happilyeverafter95/pneumonia-detection](https://github.com/happilyeverafter95/pneumonia-detection) - Web app for detecting pneumonia from x-ray images
 - [happilyeverafter95/iris-classifier-fastapi](https://github.com/happilyeverafter95/iris-classifier-fastapi) - Deploying Iris Classifications with FastAPI
 - [flaviofilipe/twitter-bot](https://github.com/flaviofilipe/twitter-bot) - 
-- [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
 - [flyner/script_python_videos](https://github.com/flyner/script_python_videos) - Scripts criados nos videos de python canal Flyner Portugal
 - [hamuchiwa/AutoRCCar](https://github.com/hamuchiwa/AutoRCCar) - OpenCV Python Neural Network Autonomous RC Car
 - [rg3915/estoque](https://github.com/rg3915/estoque) - Controle de estoque
@@ -257,6 +256,7 @@
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [rmanguinho/clean-ts-api](https://github.com/rmanguinho/clean-ts-api) - API em NodeJs usando Typescript, TDD, Clean Architecture, Design Patterns e SOLID principles
 - [rocketseat-content/masterclass-typescript](https://github.com/rocketseat-content/masterclass-typescript) - Código produzido durante o vídeo "TypeScript, o início, de forma prática - Masterclass #07" no Youtube 🔥
+- [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
 
 ## Vim Script 
 
