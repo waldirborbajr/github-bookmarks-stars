@@ -39,7 +39,7 @@
 ## Go 
 
 - [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
-- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2, Mistral, and other large language models locally.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models locally.
 - [mallmanndev/plataforma-ead](https://github.com/mallmanndev/plataforma-ead) - 
 - [lintingzhen/commitizen-go](https://github.com/lintingzhen/commitizen-go) - The commitizen command line utility, without nodejs.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
