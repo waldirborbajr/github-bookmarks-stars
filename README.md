@@ -43,7 +43,7 @@
 - [mallmanndev/plataforma-ead](https://github.com/mallmanndev/plataforma-ead) - 
 - [lintingzhen/commitizen-go](https://github.com/lintingzhen/commitizen-go) - The commitizen command line utility, without nodejs.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
-- [carlmjohnson/requests](https://github.com/carlmjohnson/requests) - HTTP requests for Gophers
+- [earthboundkid/requests](https://github.com/earthboundkid/requests) - HTTP requests for Gophers
 - [thangchung/go-coffeeshop](https://github.com/thangchung/go-coffeeshop) - ☕ A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment
 - [andrewesteves/superchat](https://github.com/andrewesteves/superchat) - 
 - [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
