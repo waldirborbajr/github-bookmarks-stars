@@ -30,6 +30,7 @@
 
 ## C++ 
 
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
 - [FarmBot/farmbot-arduino-firmware](https://github.com/FarmBot/farmbot-arduino-firmware) - Arduino firmware that executes g-code like commands over a serial line to move the FarmBot and operate the tool mount
 
 ## Emacs Lisp 
@@ -40,7 +41,6 @@
 
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 - [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
 - [mallmanndev/plataforma-ead](https://github.com/mallmanndev/plataforma-ead) - 
 - [lintingzhen/commitizen-go](https://github.com/lintingzhen/commitizen-go) - The commitizen command line utility, without nodejs.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
