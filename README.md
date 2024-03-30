@@ -43,6 +43,7 @@
 
 ## Go 
 
+- [joshmedeski/sesh](https://github.com/joshmedeski/sesh) - Smart session manager for the terminal
 - [go-telegram/bot](https://github.com/go-telegram/bot) - Telegram Bot API Go framework
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 - [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
