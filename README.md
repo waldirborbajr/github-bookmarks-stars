@@ -62,7 +62,7 @@
 - [okemechris/assistant-jerome](https://github.com/okemechris/assistant-jerome) - Voice assistant for linux
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [rwxrob/cmdbox-pomo](https://github.com/rwxrob/cmdbox-pomo) - 
-- [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol
+- [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Go implementation of the Ethereum protocol
 - [fonini/go-pix](https://github.com/fonini/go-pix) - go-pix is a Go library for generating Pix Copy and Paste or QR codes. 💳 💰
 - [gobitfly/eth2-beaconchain-explorer](https://github.com/gobitfly/eth2-beaconchain-explorer) - Open source golang based explorer for the eth2 beacon chain
 - [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) - A fast trading bot platform for cryptocurrency in Go (Binance)
