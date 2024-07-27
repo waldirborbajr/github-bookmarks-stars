@@ -223,7 +223,7 @@
 - [GustavoMSevero/JARVIS-Virtual-Personal-Assistant](https://github.com/GustavoMSevero/JARVIS-Virtual-Personal-Assistant) - Just A Rather Very Intelligent System
 - [KalleHallden/ProjectInitializationAutomation](https://github.com/KalleHallden/ProjectInitializationAutomation) - 
 - [KalleHallden/InstaAutomator](https://github.com/KalleHallden/InstaAutomator) - 
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system in 275+ supported cars.
 - [alectrocute/flaskSaaS](https://github.com/alectrocute/flaskSaaS) - A great starting point to build your SaaS in Flask & Python, with Stripe subscription billing 🚀
 - [cosme12/SimpleCoin](https://github.com/cosme12/SimpleCoin) - Just a really simple, insecure and incomplete implementation of a blockchain for a cryptocurrency made in Python as educational material. In other words, a simple Bitcoin clone.
 - [alvaropaco/py-weather-micro-service](https://github.com/alvaropaco/py-weather-micro-service) - 
