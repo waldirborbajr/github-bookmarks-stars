@@ -261,7 +261,7 @@
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [rmanguinho/clean-ts-api](https://github.com/rmanguinho/clean-ts-api) - API em NodeJs usando Typescript, TDD, Clean Architecture, Design Patterns e SOLID principles
 - [rocketseat-content/masterclass-typescript](https://github.com/rocketseat-content/masterclass-typescript) - Código produzido durante o vídeo "TypeScript, o início, de forma prática - Masterclass #07" no Youtube 🔥
-- [tiangolo/full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
+- [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 
 ## Vim Script 
 
