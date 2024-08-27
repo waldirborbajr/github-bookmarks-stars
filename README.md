@@ -165,7 +165,7 @@
 - [DesenvolvimentoDeBots/DesenvolvimentoDeBots](https://github.com/DesenvolvimentoDeBots/DesenvolvimentoDeBots) - Esse é um repositório oficial do grupo Desenvolvimento De Bots no Telegram
 - [pyladiespb-org/python-world](https://github.com/pyladiespb-org/python-world) - Possibilidades de aplicação e estudo com a nossa linguagem do coração: Python (ÓBVIO)!!
 - [gomex/docker-para-desenvolvedores](https://github.com/gomex/docker-para-desenvolvedores) - Código fonte do livro Docker para desenvolvedores
-- [ossu/data-science](https://github.com/ossu/data-science) - :bar_chart: Path to a free self-taught education in Data Science!
+- [ossu/data-science](https://github.com/ossu/data-science) - 📊 Path to a free self-taught education in Data Science!
 - [GabrielRF/DesenvolvimentoDeBots](https://github.com/GabrielRF/DesenvolvimentoDeBots) - Esse é um repositório oficial do grupo Desenvolvimento De Bots no Telegram
 - [alyyousuf7/docker-workshop](https://github.com/alyyousuf7/docker-workshop) - Getting started with Docker
 - [styfle/awesome-online-ide](https://github.com/styfle/awesome-online-ide) - 🌩️ A list of awesome online development environments
