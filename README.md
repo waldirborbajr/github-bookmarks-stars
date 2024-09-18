@@ -17,6 +17,7 @@
 - [Makefile](#makefile)
 - [Nix](#nix)
 - [Others](#others)
+- [PHP](#php)
 - [Python](#python)
 - [Rust](#rust)
 - [Shell](#shell)
@@ -168,6 +169,10 @@
 - [GabrielRF/DesenvolvimentoDeBots](https://github.com/GabrielRF/DesenvolvimentoDeBots) - Esse é um repositório oficial do grupo Desenvolvimento De Bots no Telegram
 - [alyyousuf7/docker-workshop](https://github.com/alyyousuf7/docker-workshop) - Getting started with Docker
 - [styfle/awesome-online-ide](https://github.com/styfle/awesome-online-ide) - 🌩️ A list of awesome online development environments
+
+## PHP 
+
+- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 
 ## Python 
 
