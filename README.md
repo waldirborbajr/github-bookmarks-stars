@@ -10,6 +10,7 @@
 - [C++](#c++)
 - [Emacs Lisp](#emacs-lisp)
 - [Go](#go)
+- [HCL](#hcl)
 - [HTML](#html)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
@@ -96,6 +97,10 @@
 - [tilt-dev/uselessoperator](https://github.com/tilt-dev/uselessoperator) - A Useless Machine As A Kubernetes Operator
 - [tommyblue/huawei-health-to-gpx](https://github.com/tommyblue/huawei-health-to-gpx) - Convert activities from the Huawei Health app and activity trackers to GPX files
 - [filhodanuvem/gitql](https://github.com/filhodanuvem/gitql) - 💊 A git query language
+
+## HCL 
+
+- [antonputra/tutorials](https://github.com/antonputra/tutorials) - DevOps Tutorials
 
 ## HTML 
 
@@ -256,6 +261,8 @@
 
 ## TypeScript 
 
+- [jina-ai/reader](https://github.com/jina-ai/reader) - Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/
+- [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
 - [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Low-code platform allows you to build business apps, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. Supports PostgreSQL, MySQL, Supabase, GraphQL
 - [dreamsofcode-io/dotfiles](https://github.com/dreamsofcode-io/dotfiles) - 
