@@ -151,6 +151,8 @@
 
 ## Lua 
 
+- [mikavilpas/yazi.nvim](https://github.com/mikavilpas/yazi.nvim) - A Neovim Plugin for the yazi terminal file manager
+- [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim) - Neovim file explorer: edit your filesystem like a buffer
 - [omerxx/dotfiles](https://github.com/omerxx/dotfiles) - My dotfiles synced form localhost and remote machines
 - [craftzdog/dotfiles-public](https://github.com/craftzdog/dotfiles-public) - My personal dotfiles
 
