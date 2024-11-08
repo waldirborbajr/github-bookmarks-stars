@@ -174,7 +174,6 @@
 
 ## Others 
 
-- [twigoo/server](https://github.com/twigoo/server) - 
 - [jeffotoni/goworkshopdevops](https://github.com/jeffotoni/goworkshopdevops) - Workshop material for 8 hours using golang
 - [DesenvolvimentoDeBots/DesenvolvimentoDeBots](https://github.com/DesenvolvimentoDeBots/DesenvolvimentoDeBots) - Esse é um repositório oficial do grupo Desenvolvimento De Bots no Telegram
 - [pyladiespb-org/python-world](https://github.com/pyladiespb-org/python-world) - Possibilidades de aplicação e estudo com a nossa linguagem do coração: Python (ÓBVIO)!!
