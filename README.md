@@ -46,7 +46,7 @@
 
 ## Go 
 
-- [rwxrob/bonzai](https://github.com/rwxrob/bonzai) - 🌳 Go Bonzai™ CLI framework and "batteries included" library of utilities
+- [rwxrob/bonzai](https://github.com/rwxrob/bonzai) - Dashist CLI framework, batteries included
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [anthdm/distributedfilesystemgo](https://github.com/anthdm/distributedfilesystemgo) - distributedfilesystemgo
 - [joshmedeski/sesh](https://github.com/joshmedeski/sesh) - Smart session manager for the terminal
@@ -66,7 +66,6 @@
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [okemechris/assistant-jerome](https://github.com/okemechris/assistant-jerome) - Voice assistant for linux
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
-- [rwxrob/cmdbox-pomo](https://github.com/rwxrob/cmdbox-pomo) - 
 - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Go implementation of the Ethereum protocol
 - [fonini/go-pix](https://github.com/fonini/go-pix) - go-pix is a Go library for generating Pix Copy and Paste or QR codes. 💳 💰
 - [gobitfly/eth2-beaconchain-explorer](https://github.com/gobitfly/eth2-beaconchain-explorer) - Open source golang based explorer for the eth2 beacon chain
