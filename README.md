@@ -6,6 +6,7 @@
 ## Contents
 
 - [Ada](#ada)
+- [C](#c)
 - [C#](#c#)
 - [C++](#c++)
 - [Emacs Lisp](#emacs-lisp)
@@ -30,6 +31,10 @@
 
 - [tsoding/eepers](https://github.com/tsoding/eepers) - Simple Turn-based Game
 
+## C 
+
+- [egzumer/uv-k5-firmware-custom](https://github.com/egzumer/uv-k5-firmware-custom) - A merge between https://github.com/OneOfEleven/uv-k5-firmware-custom and https://github.com/fagci/uv-k5-firmware-fagci-mod
+
 ## C# # 
 
 - [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) - The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement lea
@@ -37,6 +42,7 @@
 
 ## C++ 
 
+- [OneOfEleven/k5prog-win](https://github.com/OneOfEleven/k5prog-win) - A windows GUI version of k5prog
 - [FarmBot/farmbot-arduino-firmware](https://github.com/FarmBot/farmbot-arduino-firmware) - Arduino firmware that executes g-code like commands over a serial line to move the FarmBot and operate the tool mount
 
 ## Emacs Lisp 
