@@ -204,7 +204,7 @@
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [athul/waka-readme](https://github.com/athul/waka-readme) - Wakatime Weekly Metrics on your Profile Readme.
 - [crweiner/hacktoberfest-swag-list](https://github.com/crweiner/hacktoberfest-swag-list) - Multiple companies go above and beyond for Hacktoberfest, and this repo tries to list them all.
-- [J-Rios/TLG_JoinCaptchaBot](https://github.com/J-Rios/TLG_JoinCaptchaBot) - Telegram Bot to verify if users joining a group are human. The Bot sends an image captcha for each new user and kicks any of them who can't solve the captcha in a specified time.
+- [J-Rios/TLG_JoinCaptchaBot](https://github.com/J-Rios/TLG_JoinCaptchaBot) - Telegram Bot to verify if users joining a group are human. The Bot sends an image captcha to each new user and removes those who fail to solve it within a specified time.
 - [rbalves-mm/bot-conversor-criptomoedas](https://github.com/rbalves-mm/bot-conversor-criptomoedas) - 
 - [jo4oP4ulo/corinthiansbot](https://github.com/jo4oP4ulo/corinthiansbot) - 
 - [VinasRibeiro/AdicionaBot](https://github.com/VinasRibeiro/AdicionaBot) - Este projeto Ajuda a adicionar pessoas em massa, ele rastreia todos os links no chat network do Behind the code
@@ -250,7 +250,7 @@
 - [GustavoMSevero/JARVIS-Virtual-Personal-Assistant](https://github.com/GustavoMSevero/JARVIS-Virtual-Personal-Assistant) - Just A Rather Very Intelligent System
 - [KalleHallden/ProjectInitializationAutomation](https://github.com/KalleHallden/ProjectInitializationAutomation) - 
 - [KalleHallden/InstaAutomator](https://github.com/KalleHallden/InstaAutomator) - 
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 275+ supported cars.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
 - [alectrocute/flaskSaaS](https://github.com/alectrocute/flaskSaaS) - A great starting point to build your SaaS in Flask & Python, with Stripe subscription billing 🚀
 - [cosme12/SimpleCoin](https://github.com/cosme12/SimpleCoin) - Just a really simple, insecure and incomplete implementation of a blockchain for a cryptocurrency made in Python as educational material. In other words, a simple Bitcoin clone.
 - [alvaropaco/py-weather-micro-service](https://github.com/alvaropaco/py-weather-micro-service) - 
