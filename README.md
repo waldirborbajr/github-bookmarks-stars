@@ -210,7 +210,6 @@
 - [CTHRU/Hitrava](https://github.com/CTHRU/Hitrava) - Convert your Huawei Health sport activities and import them in Strava.
 - [devaprender/download_folder_cleaner](https://github.com/devaprender/download_folder_cleaner) - 
 - [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python
-- [Katrovisch/API-Docker-Attack](https://github.com/Katrovisch/API-Docker-Attack) - Post-exploitation using exposed Docker API (docker.sock)
 - [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
 - [lucaslattari/knapsack-problem](https://github.com/lucaslattari/knapsack-problem) - Repositório do projeto apresentado no vídeo "Explicando o Problema da Mochila de forma DIDÁTICA" (e os seguintes) do canal Universo Discreto
 - [TeoCalvo/olist_churn](https://github.com/TeoCalvo/olist_churn) - 
