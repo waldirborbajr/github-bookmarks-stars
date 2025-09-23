@@ -59,7 +59,7 @@
 - [anthdm/distributedfilesystemgo](https://github.com/anthdm/distributedfilesystemgo) - distributedfilesystemgo
 - [joshmedeski/sesh](https://github.com/joshmedeski/sesh) - Smart session manager for the terminal
 - [go-telegram/bot](https://github.com/go-telegram/bot) - Telegram Bot API Go framework
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [lintingzhen/commitizen-go](https://github.com/lintingzhen/commitizen-go) - The commitizen command line utility, without nodejs.
