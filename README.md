@@ -54,6 +54,8 @@
 
 ## Go 
 
+- [nao1215/gup](https://github.com/nao1215/gup) - gup - Update binaries installed by "go install" with goroutines.
+- [waldirborbajr/Muxly](https://github.com/waldirborbajr/Muxly) - Manage tmux sessions, your way :sparkles:
 - [rwxrob/bonzai](https://github.com/rwxrob/bonzai) - Dashist CLI framework, batteries included
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [anthdm/distributedfilesystemgo](https://github.com/anthdm/distributedfilesystemgo) - distributedfilesystemgo
