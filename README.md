@@ -54,6 +54,7 @@
 
 ## Go 
 
+- [evcc-io/evcc](https://github.com/evcc-io/evcc) - solar charging ☀️🚘
 - [nao1215/gup](https://github.com/nao1215/gup) - gup - Update binaries installed by "go install" with goroutines.
 - [waldirborbajr/Muxly](https://github.com/waldirborbajr/Muxly) - Manage tmux sessions, your way :sparkles:
 - [rwxrob/bonzai](https://github.com/rwxrob/bonzai) - Dashist CLI framework, batteries included
