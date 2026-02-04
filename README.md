@@ -197,6 +197,7 @@
 
 ## Python 
 
+- [narayanls/tac-writer](https://github.com/narayanls/tac-writer) - Academic Writing Assistant for Continuous Argumentation Technique
 - [pgdinamica/carteirinha](https://github.com/pgdinamica/carteirinha) - 
 - [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
 - [HumanSignal/labelImg](https://github.com/HumanSignal/labelImg) - LabelImg is now part of the Label Studio community. The popular image annotation tool created by Tzutalin is no longer actively being developed, but you can check out Label Studio, the open source dat
