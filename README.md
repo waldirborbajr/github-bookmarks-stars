@@ -9,6 +9,7 @@
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
+- [Elixir](#elixir)
 - [Emacs Lisp](#emacs-lisp)
 - [Go](#go)
 - [HCL](#hcl)
@@ -17,7 +18,6 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Lua](#lua)
 - [Makefile](#makefile)
-- [Nix](#nix)
 - [Nushell](#nushell)
 - [Others](#others)
 - [PHP](#php)
@@ -47,6 +47,10 @@
 - [rberaldo/ESP32-satellite-aprs-bot](https://github.com/rberaldo/ESP32-satellite-aprs-bot) - An ESP32-based bot that tracks satellite APRS activity, sending real-time updates from the ISS and other satellites via Telegram.
 - [OneOfEleven/k5prog-win](https://github.com/OneOfEleven/k5prog-win) - A windows GUI version of k5prog
 - [FarmBot/farmbot-arduino-firmware](https://github.com/FarmBot/farmbot-arduino-firmware) - Arduino firmware that executes g-code like commands over a serial line to move the FarmBot and operate the tool mount
+
+## Elixir 
+
+- [Massolari/dotfiles](https://github.com/Massolari/dotfiles) - My dotfiles
 
 ## Emacs Lisp 
 
@@ -172,10 +176,6 @@
 
 - [uber-go/guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
 - [chemidy/smallest-secured-golang-docker-image](https://github.com/chemidy/smallest-secured-golang-docker-image) - Create the smallest and secured golang docker image based on scratch
-
-## Nix 
-
-- [Massolari/dotfiles](https://github.com/Massolari/dotfiles) - My dotfiles
 
 ## Nushell 
 
