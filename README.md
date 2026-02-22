@@ -205,7 +205,7 @@
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [athul/waka-readme](https://github.com/athul/waka-readme) - Wakatime Weekly Metrics on your Profile Readme.
 - [crweiner/hacktoberfest-swag-list](https://github.com/crweiner/hacktoberfest-swag-list) - Multiple companies go above and beyond for Hacktoberfest, and this repo tries to list them all.
-- [J-Rios/TLG_JoinCaptchaBot](https://github.com/J-Rios/TLG_JoinCaptchaBot) - Telegram Bot to verify if users joining a group are human. The Bot sends an image captcha to each new user and removes those who fail to solve it within a specified time.
+- [J-Rios/TLG_JoinCaptchaBot](https://github.com/J-Rios/TLG_JoinCaptchaBot) - Telegram Bot to verify if users joining a group are human. The Bot sends a captcha challenge to each new user and removes those who fail to solve it within a specified time.
 - [rbalves-mm/bot-conversor-criptomoedas](https://github.com/rbalves-mm/bot-conversor-criptomoedas) - 
 - [jo4oP4ulo/corinthiansbot](https://github.com/jo4oP4ulo/corinthiansbot) - 
 - [VinasRibeiro/AdicionaBot](https://github.com/VinasRibeiro/AdicionaBot) - Este projeto Ajuda a adicionar pessoas em massa, ele rastreia todos os links no chat network do Behind the code
