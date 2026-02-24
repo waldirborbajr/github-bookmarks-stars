@@ -58,6 +58,7 @@
 
 ## Go 
 
+- [tmuxpack/tpack](https://github.com/tmuxpack/tpack) - A drop-in replacement for tmux-plugin-manager (tpm) with a TUI. Written in Go.
 - [Xelckis/spotify-fs](https://github.com/Xelckis/spotify-fs) - Store any file inside Spotify tracks. Proof of Concept written in Go.
 - [evcc-io/evcc](https://github.com/evcc-io/evcc) - solar charging ☀️🚘
 - [nao1215/gup](https://github.com/nao1215/gup) - gup - Update binaries installed by "go install" with goroutines.
