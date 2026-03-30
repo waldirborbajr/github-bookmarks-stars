@@ -66,7 +66,7 @@
 - [rwxrob/bonzai](https://github.com/rwxrob/bonzai) - Dashist CLI framework, batteries included
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [anthdm/distributedfilesystemgo](https://github.com/anthdm/distributedfilesystemgo) - distributedfilesystemgo
-- [joshmedeski/sesh](https://github.com/joshmedeski/sesh) - Smart session manager for the terminal
+- [joshmedeski/sesh](https://github.com/joshmedeski/sesh) - Smart tmux session manager
 - [go-telegram/bot](https://github.com/go-telegram/bot) - Telegram Bot API Go framework
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps
