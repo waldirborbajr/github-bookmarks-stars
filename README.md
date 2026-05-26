@@ -183,6 +183,7 @@
 
 ## Others 
 
+- [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [jeffotoni/goworkshopdevops](https://github.com/jeffotoni/goworkshopdevops) - Workshop material for 8 hours using golang
 - [DesenvolvimentoDeBots/DesenvolvimentoDeBots](https://github.com/DesenvolvimentoDeBots/DesenvolvimentoDeBots) - Esse é um repositório oficial do grupo Desenvolvimento De Bots no Telegram
 - [pyladiespb-org/python-world](https://github.com/pyladiespb-org/python-world) - Possibilidades de aplicação e estudo com a nossa linguagem do coração: Python (ÓBVIO)!!
@@ -281,6 +282,7 @@
 
 ## TypeScript 
 
+- [multica-ai/multica](https://github.com/multica-ai/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
 - [jina-ai/reader](https://github.com/jina-ai/reader) - Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Search, scrape, and clean the web for AI agents.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
