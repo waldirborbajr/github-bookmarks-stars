@@ -258,6 +258,7 @@
 
 ## Rust 
 
+- [mmalmi/nostr-vpn](https://github.com/mmalmi/nostr-vpn) - 
 - [nrxschool/stellar-bootcamp](https://github.com/nrxschool/stellar-bootcamp) - 
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 - [nabijaczleweli/cargo-update](https://github.com/nabijaczleweli/cargo-update) - A cargo subcommand for checking and applying updates to installed executables
