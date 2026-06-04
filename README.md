@@ -58,6 +58,7 @@
 
 ## Go 
 
+- [multica-ai/multica](https://github.com/multica-ai/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
 - [tmuxpack/tpack](https://github.com/tmuxpack/tpack) - A drop-in replacement for tmux-plugin-manager (tpm) with a TUI. Written in Go.
 - [Xelckis/spotify-fs](https://github.com/Xelckis/spotify-fs) - Store any file inside Spotify tracks. Proof of Concept written in Go.
 - [evcc-io/evcc](https://github.com/evcc-io/evcc) - solar charging ☀️🚘
@@ -285,7 +286,6 @@
 
 ## TypeScript 
 
-- [multica-ai/multica](https://github.com/multica-ai/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
 - [jina-ai/reader](https://github.com/jina-ai/reader) - Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
