@@ -63,7 +63,7 @@
 - [tmuxpack/tpack](https://github.com/tmuxpack/tpack) - A drop-in replacement for tmux-plugin-manager (tpm) with a TUI. Written in Go.
 - [Xelckis/spotify-fs](https://github.com/Xelckis/spotify-fs) - Store any file inside Spotify tracks. Proof of Concept written in Go.
 - [evcc-io/evcc](https://github.com/evcc-io/evcc) - solar charging ☀️🚘
-- [nao1215/gup](https://github.com/nao1215/gup) - Fast parallel updater and manager for binaries installed with `go install`
+- [nao1215/gup](https://github.com/nao1215/gup) - Fast manager for Go-installed binaries in $GOBIN: update, export/import, and migrate toolsets across machines
 - [waldirborbajr/Muxly](https://github.com/waldirborbajr/Muxly) - Manage tmux sessions, your way :sparkles:
 - [rwxrob/bonzai](https://github.com/rwxrob/bonzai) - Dashist CLI framework, batteries included
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
