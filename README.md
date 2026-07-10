@@ -132,6 +132,7 @@
 
 ## JavaScript 
 
+- [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [a5c-ai/babysitter](https://github.com/a5c-ai/babysitter) - Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows through deterministic, hallucination-free self-orchestration
 - [w3b3d3v/buildspace-projects](https://github.com/w3b3d3v/buildspace-projects) - The home of our open-source projects.
 - [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself
