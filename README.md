@@ -9,6 +9,7 @@
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
+- [CSS](#css)
 - [Elixir](#elixir)
 - [Emacs Lisp](#emacs-lisp)
 - [Go](#go)
@@ -47,6 +48,10 @@
 - [rberaldo/ESP32-satellite-aprs-bot](https://github.com/rberaldo/ESP32-satellite-aprs-bot) - An ESP32-based bot that tracks satellite APRS activity, sending real-time updates from the ISS and other satellites via Telegram.
 - [OneOfEleven/k5prog-win](https://github.com/OneOfEleven/k5prog-win) - A windows GUI version of k5prog
 - [FarmBot/farmbot-arduino-firmware](https://github.com/FarmBot/farmbot-arduino-firmware) - Arduino firmware that executes g-code like commands over a serial line to move the FarmBot and operate the tool mount
+
+## CSS 
+
+- [crweiner/hacktoberfest-swag-list](https://github.com/crweiner/hacktoberfest-swag-list) - Multiple companies go above and beyond for Hacktoberfest, and this repo tries to list them all.
 
 ## Elixir 
 
@@ -209,7 +214,6 @@
 - [HumanSignal/labelImg](https://github.com/HumanSignal/labelImg) - LabelImg is now part of the Label Studio community. The popular image annotation tool created by Tzutalin is no longer actively being developed, but you can check out Label Studio, the open source dat
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [athul/waka-readme](https://github.com/athul/waka-readme) - Wakatime Weekly Metrics on your Profile Readme.
-- [crweiner/hacktoberfest-swag-list](https://github.com/crweiner/hacktoberfest-swag-list) - Multiple companies go above and beyond for Hacktoberfest, and this repo tries to list them all.
 - [J-Rios/TLG_JoinCaptchaBot](https://github.com/J-Rios/TLG_JoinCaptchaBot) - Telegram Bot to verify if users joining a group are human. The Bot sends a captcha challenge to each new user and removes those who fail to solve it within a specified time.
 - [jo4oP4ulo/corinthiansbot](https://github.com/jo4oP4ulo/corinthiansbot) - 
 - [VinasRibeiro/AdicionaBot](https://github.com/VinasRibeiro/AdicionaBot) - Este projeto Ajuda a adicionar pessoas em massa, ele rastreia todos os links no chat network do Behind the code
