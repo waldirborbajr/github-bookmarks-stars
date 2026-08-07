@@ -64,7 +64,7 @@
 ## Go 
 
 - [LarsArtmann/GoReleaser-Wizard](https://github.com/LarsArtmann/GoReleaser-Wizard) - The interactive setup wizard that creates perfect GoReleaser configurations in seconds. Stop copy-pasting configs and get production-ready releases with one command.
-- [multica-ai/multica](https://github.com/multica-ai/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
+- [multica-ai/multica](https://github.com/multica-ai/multica) - Assign issues to Claude Code, Codex, Cursor, and 17 more coding agents like teammates — open-source and self-hostable.
 - [tmuxpack/tpack](https://github.com/tmuxpack/tpack) - A drop-in replacement for tmux-plugin-manager (tpm) with a TUI. Written in Go.
 - [Xelckis/spotify-fs](https://github.com/Xelckis/spotify-fs) - Store any file inside Spotify tracks. Proof of Concept written in Go.
 - [evcc-io/evcc](https://github.com/evcc-io/evcc) - solar charging ☀️🚘
