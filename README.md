@@ -22,6 +22,7 @@
 - [Nushell](#nushell)
 - [Others](#others)
 - [PHP](#php)
+- [PLSQL](#plsql)
 - [Python](#python)
 - [Rust](#rust)
 - [Shell](#shell)
@@ -205,6 +206,10 @@
 ## PHP 
 
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
+
+## PLSQL 
+
+- [swzhangf/AERIS-10-Open-Source-Pulse-Linear-Frequency-Modulated-Phased-Array-Radar](https://github.com/swzhangf/AERIS-10-Open-Source-Pulse-Linear-Frequency-Modulated-Phased-Array-Radar) - AERIS-10 is an open-source, low-cost 10.5 GHz phased array radar system featuring Pulse Linear Frequency Modulated (LFM) modulation. Available in two versions (3km and 20km range), it's designed for r
 
 ## Python 
 
