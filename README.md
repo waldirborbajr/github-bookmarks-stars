@@ -15,6 +15,7 @@
 - [Go](#go)
 - [HCL](#hcl)
 - [HTML](#html)
+- [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Lua](#lua)
@@ -47,6 +48,7 @@
 
 ## C++ 
 
+- [tsoding/tatr](https://github.com/tsoding/tatr) - Task Tracker
 - [rberaldo/ESP32-satellite-aprs-bot](https://github.com/rberaldo/ESP32-satellite-aprs-bot) - An ESP32-based bot that tracks satellite APRS activity, sending real-time updates from the ISS and other satellites via Telegram.
 - [OneOfEleven/k5prog-win](https://github.com/OneOfEleven/k5prog-win) - A windows GUI version of k5prog
 - [FarmBot/farmbot-arduino-firmware](https://github.com/FarmBot/farmbot-arduino-firmware) - Arduino firmware that executes g-code like commands over a serial line to move the FarmBot and operate the tool mount
@@ -136,6 +138,10 @@
 - [flask-extensions/flaskextensions.com](https://github.com/flask-extensions/flaskextensions.com) - Website flaskextensions.com curated collection of Flask Extensions and its resources
 - [RyanZotti/Self-Driving-Car](https://github.com/RyanZotti/Self-Driving-Car) - 
 - [adilmoujahid/blockchain-python-tutorial](https://github.com/adilmoujahid/blockchain-python-tutorial) - Source Code for my blog post: A Practical Introduction to Blockchain with Python
+
+## Java 
+
+- [sepinf-inc/IPED](https://github.com/sepinf-inc/IPED) - IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze digital evidence, often seized at crime scenes by law enforcement or in a corporate investigation by p
 
 ## JavaScript 
 
@@ -272,6 +278,7 @@
 
 ## Rust 
 
+- [raine/workmux](https://github.com/raine/workmux) - git worktrees + tmux windows for zero-friction parallel dev
 - [mmalmi/nostr-vpn](https://github.com/mmalmi/nostr-vpn) - 
 - [nrxschool/stellar-bootcamp](https://github.com/nrxschool/stellar-bootcamp) - 
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
