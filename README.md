@@ -278,6 +278,7 @@
 
 ## Rust 
 
+- [tcanabrava/harmonicon](https://github.com/tcanabrava/harmonicon) - 
 - [kunobi-ninja/kache](https://github.com/kunobi-ninja/kache) - Zero-copy, content-addressed Rust build cache for Rust, C/C++ and more. No copies, no wasted disk
 - [raine/workmux](https://github.com/raine/workmux) - git worktrees + tmux windows for zero-friction parallel dev
 - [mmalmi/nostr-vpn](https://github.com/mmalmi/nostr-vpn) - 
