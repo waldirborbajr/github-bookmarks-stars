@@ -282,7 +282,7 @@
 - [tcanabrava/harmonicon](https://github.com/tcanabrava/harmonicon) - 
 - [kunobi-ninja/kache](https://github.com/kunobi-ninja/kache) - Zero-copy, content-addressed Rust build cache for Rust, C/C++ and more. No copies, no wasted disk
 - [raine/workmux](https://github.com/raine/workmux) - git worktrees + tmux windows for zero-friction parallel dev
-- [mmalmi/nostr-vpn](https://github.com/mmalmi/nostr-vpn) - 
+- [mmalmi/nostr-vpn](https://github.com/mmalmi/nostr-vpn) - Private mesh VPN for humans and agents. Local keys, signed enrollment, no provider account. Native apps and CLI.
 - [nrxschool/stellar-bootcamp](https://github.com/nrxschool/stellar-bootcamp) - 
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 - [nabijaczleweli/cargo-update](https://github.com/nabijaczleweli/cargo-update) - A cargo subcommand for checking and applying updates to installed executables
